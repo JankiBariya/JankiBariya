@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn-media-1.freecodecamp.org/images/bamlgwPuXXB-fnXeFEZmDDKpFyORz8ZacX23" alt="cover" />
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
